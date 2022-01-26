@@ -1,4 +1,6 @@
 #Todo
-Simole command line todo app
-    Add , remove or view list of items
+Simple command line todo app
+    
+    
+    Add , remove or view list of things to be done
     
